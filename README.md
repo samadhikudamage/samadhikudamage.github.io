@@ -1,2 +1,1 @@
-# samadhikudamage.github.io
-# samadhikudamage.github.io
+# waasnipun.github.io
