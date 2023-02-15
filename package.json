@@ -3,10 +3,10 @@
   "description": "Personal Website V4",
   "version": "1.0.0",
   "homepage": "https://samadhikudamage.github.io/",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Samadhi Kudamage",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/samadhikudamage/samadhikudamage.github.io.git"
   },
   "keywords": [
     "gatsby"

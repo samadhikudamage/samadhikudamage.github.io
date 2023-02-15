@@ -93,8 +93,6 @@ const StyledPic = styled.div`
     .img {
       position: relative;
       border-radius: var(--border-radius);
-      mix-blend-mode: multiply;
-      filter: grayscale(100%) contrast(1);
       transition: var(--transition);
     }
 
@@ -139,7 +137,7 @@ const About = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Samadhi Kudamage.</h2>;
-  const skills = ['Java', 'Python', 'C++','MySQL', 'Flutter', 'Tensorflow','Pytorch','Scikit','Numpy' ,'Deep Learning' ,'Data Structures & Algorithms', 'Firebase', 'AWS', 'Adobe Illustrator'];
+  const skills = ['Figma', 'Adobe Illustrator', 'Adobe Photoshop','HTML', 'CSS'];
   const items = [one, two];
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -153,16 +151,11 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>
-            A passionate persuer showing interest in the fields of Computer Science and Machine Learning. 
-            A quick learner with a can-do attitude willing to take up challenges and passionate to dig deep into an area of interest.
-            </p>
 
             <p>
-              I’ve had the privilege of working at{' '}
-              <a href="https://www.hexcodelabs.lk">Hexcodelabs</a>,and{' '}
-              <a href="https://www.dialog.lk/">Dialog Axiata</a> as a software engineer. I have build and deployed several 
-              projects throughout my time of being in those companies. 
+            As a designer, I have a passion for creating intuitive and engaging user experiences. 
+            With a keen eye for detail and a strong understanding of user psychology, I strive to design 
+            interfaces that are both aesthetically pleasing and functional. 
             </p>
 
             {/* <p>

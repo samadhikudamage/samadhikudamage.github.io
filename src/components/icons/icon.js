@@ -16,6 +16,7 @@ import {
   IconStar,
   IconTwitter,
   IconHackerrank,
+  IconFigma
 } from '@components/icons';
 import IconMedium from './medium';
 
@@ -53,6 +54,8 @@ const Icon = ({ name }) => {
       return <IconHackerrank />;
     case 'Medium':
       return <IconMedium />;
+    case 'Figma':
+        return <IconFigma />;
     default:
       return <IconExternal />;
   }

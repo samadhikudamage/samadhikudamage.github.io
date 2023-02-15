@@ -15,3 +15,4 @@ export { default as IconStar } from './star';
 export { default as IconTwitter } from './twitter';
 export { default as IconHackerrank } from './hackerrank';
 export { default as IconMedium } from './medium';
+export { default as IconFigma } from './figma';
