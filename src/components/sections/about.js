@@ -137,7 +137,7 @@ const About = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Samadhi Kudamage.</h2>;
-  const skills = ['Figma', 'Adobe Illustrator', 'Adobe Photoshop','HTML', 'CSS'];
+  const skills = ['Figma', 'Adobe Illustrator', 'Adobe Photoshop','HTML', 'Adobe Auditions', 'Adobe Premiere'];
   const items = [one, two];
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
