@@ -3,7 +3,7 @@ date: '1'
 title: 'KEY2NFT'
 cover: './nft.png'
 github: ''
-external: 'https://www.figma.com/file/LQRDGzL55IyHD3JdQF1znp/NFT?node-id=0%3A1&t=DSFat0xo8oOROGEC-1'
+external: ''
 tech:
   - Figma
   - UI/UX

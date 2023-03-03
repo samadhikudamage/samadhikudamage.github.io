@@ -3,7 +3,7 @@ date: '1'
 title: 'SHcart'
 cover: './shcart.png'
 github: ''
-external: 'https://www.figma.com/file/dPQQefsB4b7yUvF6pJEg5P/Shcart?node-id=0%3A1&t=e4hcZv5R5XdxiIoe-1'
+external: ''
 tech:
   - Figma
   - UI/UX

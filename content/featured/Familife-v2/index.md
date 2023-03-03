@@ -2,7 +2,7 @@
 date: '4'
 title: 'Familife'
 cover: './familife-01.png'
-github: 'https://www.figma.com/file/CGL4wT6VhrLEkdqd86SqGK/Familife-App?t=uLPMFQ5oBt9uqPTz-1'
+github: ''
 external: 'https://my-blog-cds51jtk2-waasnipun.vercel.app/familife-v-2'
 tech:
   - Figma
