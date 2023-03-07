@@ -9,6 +9,10 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/samadhi-kudamage-b18a9a203/',
+    },
+    {
+      name: 'Figma',
+      url: 'https://www.behance.net/sumudus',
     }
   ],
 

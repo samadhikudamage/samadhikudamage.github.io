@@ -3,7 +3,7 @@ date: '1'
 title: 'KEY2NFT'
 cover: './nft.png'
 github: ''
-external: ''
+external: 'https://www.behance.net/gallery/165144611/KEY2NFT/modules/931356465'
 tech:
   - Figma
   - UI/UX
