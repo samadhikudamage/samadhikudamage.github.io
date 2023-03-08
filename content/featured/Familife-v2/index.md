@@ -3,7 +3,7 @@ date: '4'
 title: 'Familife'
 cover: './familife-01.png'
 github: ''
-external: 'https://my-blog-cds51jtk2-waasnipun.vercel.app/familife-v-2'
+external: 'https://samadhikudamage.github.io'
 tech:
   - Figma
   - UI/UX

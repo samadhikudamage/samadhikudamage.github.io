@@ -3,7 +3,7 @@ date: '1'
 title: 'SHcart'
 cover: './shcart.png'
 github: ''
-external: ''
+external: 'https://samadhikudamage.github.io'
 tech:
   - Figma
   - UI/UX
